@@ -1,5 +1,8 @@
 # sarangmall_python
 
+## python 3.7.7 다운로드
+https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe
+
 ## psmssql 사용법
 > https://code.google.com/archive/p/pymssql/
 
