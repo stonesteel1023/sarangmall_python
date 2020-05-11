@@ -3,8 +3,12 @@
 ## python 3.7.7 다운로드
 https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe
 
-## psmssql 사용법
+## 에러발생시 추가 다운로드
+https://download.microsoft.com/download/5/F/7/5F7ACAEB-8363-451F-9425-68A90F98B238/visualcppbuildtools_full.exe
+
+## pymssql 사용법
 > https://code.google.com/archive/p/pymssql/
+
 
 ## 순서
 
